@@ -1,0 +1,27 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Vibrato"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_PhaserUbiquitousVibe",
+        "Rate" : 0.33000004291534424,
+        "SyncSelect1" : 8,
+        "TempoSync1" : true,
+        "Intensity" : 0.54999995231628418,
+        "@enabled" : true,
+        "@type" : 0,
+        "LampBias" : 0.44000005722045898,
+        "Mix" : 0.22000002861022949,
+        "Level" : 0,
+        "@stereo" : false,
+        "Mode" : false
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

@@ -1,0 +1,26 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Klon"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_DistMinotaur",
+        "@type" : 0,
+        "@stereo" : false,
+        "Gain" : 0.22000002861022949,
+        "Level" : 0.66000008583068848,
+        "Tone" : 0.44000005722045898,
+        "@enabled" : true
+      },
+      "bypass" : {
+        "@fs_momentary" : false,
+        "@fs_index" : 8
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

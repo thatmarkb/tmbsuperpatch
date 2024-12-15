@@ -1,0 +1,31 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Plate Vrb"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "BassFreq" : 111,
+        "@model" : "VIC_DynPlate",
+        "PreDelay" : 0.01100003719329834,
+        "LowCut" : 111,
+        "VarDelayAmpl" : 0.54999995231628418,
+        "@enabled" : true,
+        "Damping" : 3300.000244140625,
+        "MatrFreq" : 0.33000004291534424,
+        "@trails" : true,
+        "@type" : 7,
+        "Mix" : 0.22000002861022949,
+        "BassBoost" : 0,
+        "Level" : 0,
+        "@stereo" : true,
+        "Decay" : 2.1999998092651367,
+        "HighCut" : 9900
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

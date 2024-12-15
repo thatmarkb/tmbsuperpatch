@@ -1,0 +1,32 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Chorus"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "VibratoRate" : 0.70000004768371582,
+        "@model" : "HD2_Chorus70sChorus",
+        "SyncSelect1" : 3,
+        "TempoSync1" : true,
+        "SyncSelect2" : 5,
+        "@enabled" : true,
+        "@type" : 0,
+        "Mix" : 0.22000002861022949,
+        "Stereo" : false,
+        "Headroom" : 0,
+        "VibratoDepth" : 0.44000005722045898,
+        "TempoSync2" : true,
+        "Level" : 0,
+        "@stereo" : true,
+        "ChorusIntensity" : 0.56999993324279785,
+        "Mode" : false,
+        "Spread" : 0.99000000953674316
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

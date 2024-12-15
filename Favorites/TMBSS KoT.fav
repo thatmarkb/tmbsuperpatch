@@ -1,0 +1,30 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS KoT"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_DistHeirApparent",
+        "Voltage" : true,
+        "@type" : 0,
+        "@stereo" : false,
+        "Gain" : 0.54999995231628418,
+        "Clipping" : 0,
+        "GainMod" : 0,
+        "Level" : 0.66000008583068848,
+        "Tone" : 0.66000008583068848,
+        "@enabled" : true,
+        "Presence" : 0.22000002861022949
+      },
+      "bypass" : {
+        "@fs_momentary" : false,
+        "@fs_index" : 8
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

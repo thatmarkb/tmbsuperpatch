@@ -1,0 +1,29 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Ambience"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "PreDelay" : 0.004999995231628418,
+        "@model" : "VIC_ReverbDynAmbience",
+        "Diffusion" : 0.76999998092651367,
+        "LowCut" : 99,
+        "RoomSize" : 0,
+        "@enabled" : true,
+        "Damping" : 5500.00048828125,
+        "@trails" : true,
+        "@type" : 7,
+        "Mix" : 0.44000005722045898,
+        "Level" : 0,
+        "@stereo" : true,
+        "EarlyLateBlend" : 0.51499998569488525,
+        "HighCut" : 9900
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

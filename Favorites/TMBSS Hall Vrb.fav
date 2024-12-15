@@ -1,0 +1,32 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Hall Vrb"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "BassFreq" : 99,
+        "@model" : "VIC_ReverbRotating",
+        "Motion" : 0.33000004291534424,
+        "Diffusion" : 0.76999998092651367,
+        "LowCut" : 111,
+        "RoomSize" : 2,
+        "@enabled" : true,
+        "Damping" : 4400,
+        "@trails" : true,
+        "@type" : 7,
+        "Mix" : 0.33000004291534424,
+        "BassBoost" : 0,
+        "Level" : 0,
+        "@stereo" : true,
+        "Decay" : 4.4000000953674316,
+        "HighCut" : 6600,
+        "Predelay" : 0.055000066757202148
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

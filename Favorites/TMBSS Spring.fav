@@ -1,0 +1,28 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Spring"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_ReverbDoubleTank",
+        "Rate" : 0.33000004291534424,
+        "LowCut" : 221.99998474121094,
+        "@enabled" : true,
+        "@trails" : true,
+        "@type" : 7,
+        "Mix" : 0.22000002861022949,
+        "Modulation" : 0.44000005722045898,
+        "Level" : 0,
+        "@stereo" : false,
+        "Decay" : 0.44000005722045898,
+        "HighCut" : 6600,
+        "Predelay" : 0
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

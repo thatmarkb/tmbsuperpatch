@@ -1,0 +1,40 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Cab"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "Position" : 0.25,
+        "@model" : "HD2_CabMicIr_4x10USSuperWithPan",
+        "LowCut" : 77,
+        "Mic" : 10,
+        "@enabled" : true,
+        "@type" : 4,
+        "Delay" : -2.002716064453125e-05,
+        "Angle" : 0,
+        "Distance" : 5,
+        "Level" : 0,
+        "Pan" : 0.44499993324279785,
+        "HighCut" : 9900
+      },
+      "slot1" : {
+        "@model" : "HD2_CabMicIr_2x12BlueBellWithPan",
+        "LowCut" : 99,
+        "Mic" : 5,
+        "@type" : 2,
+        "Angle" : 0,
+        "Pan" : 0.55500006675720215,
+        "Position" : 0.54999995231628418,
+        "Distance" : 1,
+        "Delay" : -2.002716064453125e-05,
+        "HighCut" : 6600,
+        "Level" : 0
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

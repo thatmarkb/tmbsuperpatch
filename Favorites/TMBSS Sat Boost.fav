@@ -1,0 +1,26 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Sat Boost"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_RetroReel",
+        "LowCut" : 66,
+        "TapeSpeed" : 2,
+        "@type" : 0,
+        "@stereo" : false,
+        "Texture" : 0.33000004291534424,
+        "WowFluttr" : 0.11000001430511475,
+        "Saturation" : 0.33000004291534424,
+        "Level" : 0,
+        "@enabled" : true,
+        "HighCut" : 11100
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

@@ -1,0 +1,30 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Short Dly"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "@model" : "HD2_DelayTransistorTape",
+        "SyncSelect1" : 6,
+        "Feedback" : 0.44000005722045898,
+        "TempoSync1" : false,
+        "WowFlutter" : 0.44000005722045898,
+        "Scale" : 0.99000000953674316,
+        "@enabled" : true,
+        "@trails" : true,
+        "@type" : 7,
+        "Mix" : 0.22000002861022949,
+        "Headroom" : 1.1000003814697266,
+        "Time" : 0.33299994468688965,
+        "Level" : 0,
+        "@stereo" : true,
+        "Spread" : 0.76999998092651367
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}

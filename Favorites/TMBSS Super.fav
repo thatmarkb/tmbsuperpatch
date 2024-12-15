@@ -1,0 +1,31 @@
+{
+  "version" : 1,
+  "data" : {
+    "meta" : {
+      "name" : "TMBSS Super"
+    },
+    "device" : 2162689,
+    "favorite" : {
+      "slot0" : {
+        "Bias" : 0.54999995231628418,
+        "@model" : "HD2_AmpUSSuperVib",
+        "Master" : 0.99000000953674316,
+        "Treble" : 0.66000008583068848,
+        "Drive" : 0.54999995231628418,
+        "Bright" : false,
+        "ChVol" : 0.76999998092651367,
+        "@enabled" : true,
+        "Ripple" : 0.44000005722045898,
+        "@type" : 1,
+        "Bass" : 0.33000004291534424,
+        "BiasX" : 0.44000005722045898,
+        "Hum" : 0.33000004291534424,
+        "Mid" : 0.66000008583068848,
+        "Presence" : 0.11000001430511475,
+        "Sag" : 0.66000008583068848
+      }
+    },
+    "device_version" : 58720256
+  },
+  "schema" : "L6ModelFavorite"
+}
